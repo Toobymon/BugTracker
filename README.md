@@ -14,3 +14,9 @@ Seguimiento de bugs: https://github.com/WLACore/BugTracker/issues
 Para mayor información sobre el Proyecto WLA, visita nuestra pagina web
 [WLA](http://www.wla.la).
 
+
+Gracias al departamento de desarrollo WLA:
+
+- Dave
+- Romeo
+
